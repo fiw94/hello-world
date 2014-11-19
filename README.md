@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-learning git using' s repository
+Hi!
+I am learning to use MFC and python...
